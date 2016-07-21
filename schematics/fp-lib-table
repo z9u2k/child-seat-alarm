@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name w_conn_mkds)(type Legacy)(uri "$(KIPRJMOD)/w_conn_mkds.mod")(options "")(descr ""))
+  (lib (name local)(type KiCad)(uri "$(KIPRJMOD)/local.pretty")(options "")(descr ""))
+)

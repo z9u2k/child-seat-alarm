@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Tue 19 Jul 2016 12:18:48 PM IDT
+
+BeginCmp
+TimeStamp = /5787384B;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = CP_5x11mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5787489F;
+Reference = C2;
+ValeurCmp = 470uF;
+IdModule  = CP_8x11.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57873DB0;
+Reference = D1;
+ValeurCmp = N4148;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785EFA0;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5787571E;
+Reference = D3;
+ValeurCmp = N4148;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /578CE826;
+Reference = D4;
+ValeurCmp = N4148;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785ECDA;
+Reference = F1;
+ValeurCmp = 200mA;
+IdModule  = fuse_holder_CQ-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57861A67;
+Reference = K1;
+ValeurCmp = SELECT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57872745;
+Reference = P1;
+ValeurCmp = SEAT_CONN;
+IdModule  = mkds_1,5-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57872807;
+Reference = P2;
+ValeurCmp = SWITCH_CONN;
+IdModule  = mkds_1,5-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /578D028E;
+Reference = P3;
+ValeurCmp = RELAY_CONN;
+IdModule  = mkds_1,5-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /578DED1D;
+Reference = P4;
+ValeurCmp = POWER_CONN;
+IdModule  = mkds_1,5-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785EDA9;
+Reference = Q1;
+ValeurCmp = BS170;
+IdModule  = TO92-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /578CC908;
+Reference = Q2;
+ValeurCmp = BC327;
+IdModule  = TO92-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785EF7A;
+Reference = R1;
+ValeurCmp = 1.2K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57873C3C;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5787383C;
+Reference = R3;
+ValeurCmp = 470K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785EEED;
+Reference = R4;
+ValeurCmp = 100K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785EE57;
+Reference = R5;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /578CCAA8;
+Reference = R6;
+ValeurCmp = 47K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /578CC996;
+Reference = R7;
+ValeurCmp = 47K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57875A65;
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57874890;
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785ED86;
+Reference = SP1;
+ValeurCmp = BUZZER;
+IdModule  = mkds_1,5-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5786325D;
+Reference = U1;
+ValeurCmp = 556;
+IdModule  = DIP-14__300;
+EndCmp
+
+EndListe
